@@ -1,0 +1,3 @@
+# Receipt-Processor-with-OCR-and-Gemini-API
+
+This project processes receipts using OCR (Optical Character Recognition) to extract relevant details such as market name, date, total price, and itemized prices. It leverages OCR.space for text extraction and the Gemini API for refining and structuring the extracted data into a clean JSON format. The goal of the project is to provide a reliable tool for processing receipts with irregular formatting and noise.

@@ -1,0 +1,7 @@
+# .env dosyasını git tarafından izlenmemesi için
+.env/
+
+# Python tarafından oluşturulan cache dosyalarını ve bytecode dosyalarını yok say
+__pycache__/
+*.pyc
+*.pyo
